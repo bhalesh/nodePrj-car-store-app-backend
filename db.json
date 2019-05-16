@@ -1,0 +1,102 @@
+{
+  "cars":[ {
+    "id": 1,
+    "brand": "BMW",
+    "model": "GL",
+    "year": 2010,
+    "price": 1235322,
+    "km": 234,
+    "engine": {
+      "fuel": "diesel",
+      "power": 123,
+      "consumption": 23
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Oddi",
+    "model": "GT",
+    "year": 2011,
+    "price": 12546,
+    "km": 123,
+    "engine": {
+      "fuel": "petrol",
+      "power": 234,
+      "consumption": 34
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Lamborgini",
+    "model": "Avato",
+    "year": 2011,
+    "price": 126777,
+    "km": 8900,
+    "engine": {
+      "fuel": "petrol",
+      "power": 2345,
+      "consumption": 45
+    }
+  },
+  {
+    "id": 4,
+    "brand": "Oddi",
+    "model": "GT",
+    "year": 2011,
+    "price": 12546,
+    "km": 123,
+    "engine": {
+      "fuel": "petrol",
+      "power": 234,
+      "consumption": 34
+    }
+  },
+  {
+    "id": 5,
+    "brand": "Lamborgini",
+    "model": "Avato",
+    "year": 2011,
+    "price": 126777,
+    "km": 8900,
+    "engine": {
+      "fuel": "electric",
+      "power": 2345,
+      "consumption": 45
+    }
+  },
+  {
+    "id": 6,
+    "brand": "Oddi",
+    "model": "GT",
+    "year": 2011,
+    "price": 12546,
+    "km": 12,
+    "engine": {
+      "fuel": "petrol",
+      "power": 234,
+      "consumption": 34
+    }
+  },
+  {
+    "id": 7,
+    "brand": "asd",
+    "model": "fdf",
+    "year": 345,
+    "price": 234,
+    "km": 234,
+    "engine": {
+      "fuel": "diesel",
+      "power": 234,
+      "consumption": 23
+    }
+  }
+],
+"brands":[
+  "BMW", "volkswagan", "skoda", "Toyota"
+],
+
+"models": [
+  {"brandId": 1, "name": "320i"}
+]
+
+}
